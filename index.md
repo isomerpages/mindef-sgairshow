@@ -15,7 +15,7 @@ sections:
         title: Live streams
         options:
           - title: Day 1
-            url: Sa2024/livestream/
+            url: live-stream
           - title: Day 2
             url: ""
           - title: Day 3

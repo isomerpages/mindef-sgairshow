@@ -14,9 +14,13 @@ sections:
       dropdown:
         title: Past live streams
         options:
-          - title: Hero Dropdown Element Title
+          - title: Day 1
             url: ""
-          - title: Hero Dropdown Element Title
+          - title: Day 2
+            url: ""
+          - title: Day 3
+            url: ""
+          - title: Day 4
             url: ""
   - infobar:
       title: Live stream - Day 1

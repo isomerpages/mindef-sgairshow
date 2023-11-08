@@ -1,4 +1,5 @@
 collections:
   sa2024:
     output: true
-    order: []
+    order:
+      - Live Stream.md

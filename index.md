@@ -22,6 +22,4 @@ sections:
             url: ""
           - title: Day 4
             url: ""
-  - infobar:
-      subtitle: Live stream - Day 1
 ---

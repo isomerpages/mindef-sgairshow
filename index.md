@@ -15,7 +15,7 @@ sections:
         title: Past live streams
         options:
           - title: Day 1
-            url: ""
+            url: https://www.mindef-sa2024.gov.sg/sa2024/live-stream/
           - title: Day 2
             url: ""
           - title: Day 3

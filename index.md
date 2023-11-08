@@ -12,8 +12,12 @@ sections:
         the world!
       background: /images/mi_airshow_101121.jpg
       dropdown:
-        title: Hero Dropdown Title
-        options: []
+        title: Past live streams
+        options:
+          - title: Hero Dropdown Element Title
+            url: ""
+          - title: Hero Dropdown Element Title
+            url: ""
   - infobar:
       title: Live stream - Day 1
 ---

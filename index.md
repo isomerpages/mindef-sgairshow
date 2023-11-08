@@ -23,5 +23,5 @@ sections:
           - title: Day 4
             url: ""
   - infobar:
-      title: Live stream - Day 1
+      subtitle: Live stream - Day 1
 ---

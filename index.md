@@ -22,4 +22,7 @@ sections:
             url: ""
           - title: Day 4
             url: ""
+  - resources:
+      title: "News and stories on Singapore Airshow 2024:"
+      id: resources
 ---

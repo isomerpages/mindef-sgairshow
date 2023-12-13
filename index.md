@@ -22,14 +22,4 @@ sections:
             url: ""
           - title: Day 4
             url: ""
-  - infobar:
-      title: "News and stories on Singapore Airshow 2024:"
-      id: infobar
-      button: RSAF's F-16C Fighter Aircraft and Apache AH-64D Helicopters Set to
-        Dazzle at Singapore Airshow 2022
-      url: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/February/11feb22_nr
-  - infobar:
-      id: infobar
-      button: "Infographic: RSAF Singapore Airshow 2022 Aerial Display"
-      url: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/February/11feb22_infographic
 ---

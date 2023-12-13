@@ -12,7 +12,7 @@ sections:
         the world!
       background: /images/mi_airshow_101121.jpg
       dropdown:
-        title: Live streams
+        title: Pasts Live streams
         options:
           - title: Day 1
             url: /live-stream

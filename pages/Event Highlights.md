@@ -8,12 +8,12 @@ description: ""
 <br><br>
 &nbsp;<h3>News&nbsp;and&nbsp;stories&nbsp;on&nbsp;Singapore&nbsp;Airshow&nbsp;2024:</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;<p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><ul>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li></li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p><li>[RSAF's F-16C Fighter Aircraft and Apache AH-64D Helicopters Set to Dazzle at Singapore Airshow 2022](https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/February/11feb22_nr)</li>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<li></li>
 &nbsp;&nbsp;<li></li>
 &nbsp;&nbsp;<li></li>
 <li></li>
-</ul>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p></p>

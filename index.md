@@ -22,4 +22,8 @@ sections:
             url: ""
           - title: Day 4
             url: ""
+  - infobar:
+      id: infobar
+      button: Click here to watch the live stream
+      url: /
 ---

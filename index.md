@@ -25,5 +25,5 @@ sections:
   - infobar:
       id: infobar
       button: Click here to watch the live stream
-      url: /
+      url: /live-stream/
 ---

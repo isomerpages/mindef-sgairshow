@@ -10,7 +10,7 @@ sections:
       title: Singapore Airshow 2024
       subtitle: Catch adrenaline-pumping aerobatic performances by teams from around
         the world!
-      background: /images/mi_airshow_101121.jpg
+      background: /images/Airforce_Final.jpg
       dropdown:
         title: Pasts Live streams
         options:

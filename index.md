@@ -18,4 +18,9 @@ sections:
       id: infobar
       button: Click here to watch the live stream
       url: /live-stream/
+  - infobar:
+      title: Pasts Live Streams
+      id: infobar
+      description: Infobar description
+      button: Button Text
 ---

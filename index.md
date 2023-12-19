@@ -12,7 +12,7 @@ sections:
         the world!
       background: /images/Airforce_Final.jpg
       dropdown:
-        title: Pasts Live streams
+        title: ""
         options: []
   - infobar:
       id: infobar

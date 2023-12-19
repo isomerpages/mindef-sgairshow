@@ -13,15 +13,7 @@ sections:
       background: /images/Airforce_Final.jpg
       dropdown:
         title: Pasts Live streams
-        options:
-          - title: Day 1
-            url: /live-stream
-          - title: Day 2
-            url: ""
-          - title: Day 3
-            url: ""
-          - title: Day 4
-            url: ""
+        options: []
   - infobar:
       id: infobar
       button: Click here to watch the live stream

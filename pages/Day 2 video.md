@@ -4,3 +4,4 @@ permalink: /day2-video/
 variant: tiptap
 description: ""
 ---
+<p></p>

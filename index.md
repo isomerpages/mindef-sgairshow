@@ -11,9 +11,6 @@ sections:
       subtitle: Catch adrenaline-pumping aerobatic performances by teams from around
         the world!
       background: /images/Airforce_Final.jpg
-      dropdown:
-        title: ""
-        options: []
   - infobar:
       id: infobar
       button: Click here to watch the live stream

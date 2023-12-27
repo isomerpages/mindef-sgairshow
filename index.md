@@ -14,8 +14,20 @@ sections:
       url: /live-stream/
       button: Click here to watch the live stream
   - infobar:
-      title: Pasts Live Streams
+      title: Past Live Streams
       id: infobar
-      description: Infobar description
-      button: Button Text
+      button: Day 1 Full Video – Tuesday, 15 Feb 2022, 12.20pm
+      url: /day1-video
+  - infobar:
+      id: infobar
+      button: Day 2 Full Video – Wednesday, 16 Feb 2022, 11.20am
+      url: /day2-video
+  - infobar:
+      id: infobar
+      button: Day 3 Full Video – Thursday, 17 Feb 2022, 11.20am
+      url: /day3-video
+  - infobar:
+      id: infobar
+      button: Day 4 Full Video – Friday, 18 Feb 2022, 11.20am
+      url: /day4-video
 ---

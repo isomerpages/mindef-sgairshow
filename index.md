@@ -13,6 +13,13 @@ sections:
       background: /images/Airforce_Final.jpg
       url: /live-stream/
       button: Click here to watch the live stream
+      key_highlights:
+        - title: Event Highlights
+          description: ""
+          url: /event-highlights
+        - title: News and stories
+          description: ""
+          url: ""
   - infobar:
       title: Past Live Streams
       id: infobar

@@ -19,7 +19,7 @@ sections:
           url: /event-highlights
         - title: News and stories
           description: ""
-          url: ""
+          url: /singapore-airshow-2024/news-and-stories/
   - infobar:
       title: Roaring Skies - Best of Singapore Airshow 2022
       id: infobar

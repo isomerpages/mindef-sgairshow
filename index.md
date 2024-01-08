@@ -29,8 +29,12 @@ sections:
   - infobar:
       title: Past Live Streams
       id: infobar
-      button: Day 1 Full Video – Tuesday, 15 Feb 2022, 12.20pm
-      url: /day1-video
+  - infobar:
+      subtitle: Day 1 - 15 Feb 2022, 12.20pm
+      id: infobar
+      description: <iframe allowfullscreen="" frameborder="0" height="360"
+        width="100%" src="https://player.vimeo.com/video/678525487?h=b730a0335b"
+        title="vimeo-player"></iframe>
   - infobar:
       id: infobar
       button: Day 2 Full Video – Wednesday, 16 Feb 2022, 11.20am

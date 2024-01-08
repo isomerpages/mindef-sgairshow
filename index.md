@@ -47,4 +47,7 @@ sections:
       id: infobar
       button: Day 4 Full Video – Friday, 18 Feb 2022, 11.20am
       url: /day4-video
+  - resources:
+      title: News and Stories
+      id: resources
 ---

@@ -21,6 +21,12 @@ sections:
           description: ""
           url: ""
   - infobar:
+      title: Roaring Skies - Best of Singapore Airshow 2022
+      id: infobar
+      description: <iframe allowfullscreen="" frameborder="0" height="360" width="640"
+        src="https://player.vimeo.com/video/678525487?h=b730a0335b"
+        title="vimeo-player"></iframe>
+  - infobar:
       title: Past Live Streams
       id: infobar
       button: Day 1 Full Video – Tuesday, 15 Feb 2022, 12.20pm
@@ -37,13 +43,4 @@ sections:
       id: infobar
       button: Day 4 Full Video – Friday, 18 Feb 2022, 11.20am
       url: /day4-video
-  - infobar:
-      title: Infobar
-      subtitle: Test
-      id: infobar
-      description: <iframe allowfullscreen="" frameborder="0" height="360" width="640"
-        src="https://player.vimeo.com/video/678525487?h=b730a0335b"
-        title="vimeo-player"></iframe>
-      button: Button Text
-      url: https://vimeo.com/678525487
 ---

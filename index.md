@@ -28,21 +28,7 @@ sections:
         width="100%" src="https://player.vimeo.com/video/678525487?h=b730a0335b"
         title="vimeo-player"></iframe>
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: Supporting Organisations
       id: textcards
       description: <img height="600" width="500" alt="MINDEF" src="/images/logo_mindef.png">
-      cards:
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
 ---

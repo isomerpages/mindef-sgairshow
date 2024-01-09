@@ -30,5 +30,5 @@ sections:
   - textcards:
       title: Supporting Organisations
       id: textcards
-      description: <img height="600" width="500" alt="MINDEF" src="/images/logo_mindef.png">
+      description: <img height="250" width="1375" alt="MINDEF" src="/images/logos.png">
 ---

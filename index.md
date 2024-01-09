@@ -11,43 +11,38 @@ sections:
       subtitle: Catch adrenaline-pumping aerobatic performances by teams from around
         the world!
       background: /images/Airforce_Final.jpg
-      url: /live-stream/
-      button: Click here to watch the live stream
-      key_highlights:
-        - title: Event Highlights
-          description: ""
-          url: /event-highlights
-        - title: News and stories
-          description: ""
-          url: /singapore-airshow-2024/news-and-stories/
   - infobar:
-      title: Roaring Skies - Best of Singapore Airshow 2022
+      title: Upcoming Live Stream
       id: infobar
       description: <iframe allowfullscreen="" frameborder="0" height="360"
         width="100%" src="https://player.vimeo.com/video/678525487?h=b730a0335b"
         title="vimeo-player"></iframe>
+      subtitle: 22 Feb 2024, 12.20pm
   - infobar:
       title: Past Live Streams
       id: infobar
   - infobar:
-      subtitle: Day 1 - 15 Feb 2022, 12.20pm
+      subtitle: 21 Feb 2024, 12.20pm
       id: infobar
       description: <iframe allowfullscreen="" frameborder="0" height="360"
         width="100%" src="https://player.vimeo.com/video/678525487?h=b730a0335b"
         title="vimeo-player"></iframe>
-  - infobar:
-      id: infobar
-      button: Day 2 Full Video – Wednesday, 16 Feb 2022, 11.20am
-      url: /day2-video
-  - infobar:
-      id: infobar
-      button: Day 3 Full Video – Thursday, 17 Feb 2022, 11.20am
-      url: /day3-video
-  - infobar:
-      id: infobar
-      button: Day 4 Full Video – Friday, 18 Feb 2022, 11.20am
-      url: /day4-video
-  - resources:
-      title: News and Stories
-      id: resources
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: <img height="600" width="500" alt="MINDEF" src="/images/logo_mindef.png">
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---

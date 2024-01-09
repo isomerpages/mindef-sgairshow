@@ -27,8 +27,9 @@ sections:
       description: <iframe allowfullscreen="" frameborder="0" height="360"
         width="100%" src="https://player.vimeo.com/video/678525487?h=b730a0335b"
         title="vimeo-player"></iframe>
-  - textcards:
+  - infobar:
       title: Supporting Organisations
-      id: textcards
-      description: <img height="250" width="1375" alt="MINDEF" src="/images/logos.png">
+      id: infobar
+      description: <img height="250" width="1375" alt="Supporting Organisation logos"
+        src="/images/logos.png">
 ---

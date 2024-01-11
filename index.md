@@ -27,6 +27,10 @@ sections:
         width="100%" src="https://player.vimeo.com/video/678525487?h=b730a0335b"
         title="vimeo-player"></iframe>
   - infobar:
+      id: infobar
+      button: To view news on Singapore Airshow 2024
+      url: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/February/11feb22_nr
+  - infobar:
       title: Supporting Organisations
       id: infobar
       description: <img height="250" width="1375" alt="Supporting Organisation logos"

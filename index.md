@@ -28,10 +28,8 @@ sections:
         title="vimeo-player"></iframe>
   - infobar:
       id: infobar
-      button: RSAF's F-16C Fighter Aircraft and Apache AH-64D Helicopters Set to
-        Dazzle at Singapore Airshow 2022
+      button: News on Singapore Airshow 2024
       url: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/February/11feb22_nr
-      title: News Release
   - infobar:
       title: Supporting Organisations
       id: infobar

@@ -28,7 +28,7 @@ sections:
         title="vimeo-player"></iframe>
   - infobar:
       id: infobar
-      button: To view news on Singapore Airshow 2024
+      button: News on Singapore Airshow 2024
       url: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/February/11feb22_nr
   - infobar:
       title: Supporting Organisations

@@ -15,13 +15,13 @@ sections:
       title: Live Streams
       id: infobar
       description: >-
-        21 Feb 2024, 12.20pm
+        20 Feb 2024, 12.20pm
 
         <br>
 
         <iframe allowfullscreen="" frameborder="0" height="360" width="100%" src="https://player.vimeo.com/video/678525487?h=b730a0335b" title="vimeo-player"></iframe>
   - infobar:
-      subtitle: 22 Feb 2024, 12.20pm
+      subtitle: 21 Feb 2024, 12.20pm
       id: infobar
       description: <iframe allowfullscreen="" frameborder="0" height="360"
         width="100%" src="https://player.vimeo.com/video/678525487?h=b730a0335b"

@@ -12,7 +12,7 @@ sections:
         the world!
       background: /images/Airforce_Final.jpg
   - infobar:
-      title: <h1 style="color:black;">Live Streams</h1>
+      title: <h1 style="color:black;">Live Streams</h1><br>
       id: infobar
       description: >-
         <h4>20 Feb 2024, 12.20pm</h4>

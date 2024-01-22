@@ -32,7 +32,7 @@ sections:
       url: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/February/11feb22_nr
   - infobar:
       id: infobar
-      description: <h1 style="color:black;">Supporting Organisations</h1><br><img
-        height="250" width="1375" alt="Supporting Organisation logos"
+      description: <img height="250" width="1375" alt="Supporting Organisation logos"
         src="/images/logos.png">
+      title: <h1 style="color:black;">Supporting Organisations</h1>
 ---

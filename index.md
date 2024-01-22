@@ -15,13 +15,13 @@ sections:
       title: <h1 style="color:black;">Live Streams</h1>
       id: infobar
       description: >-
-        <h2>20 Feb 2024, 12.20pm</h2>
+        <h3>20 Feb 2024, 12.20pm</h3>
 
         <br>
 
         <iframe allowfullscreen="" frameborder="0" height="360" width="100%" src="https://player.vimeo.com/video/678525487?h=b730a0335b" title="vimeo-player"></iframe>
   - infobar:
-      subtitle: <h2>21 Feb 2024, 12.20pm</h2>
+      subtitle: <h3>21 Feb 2024, 12.20pm</h3>
       id: infobar
       description: <iframe allowfullscreen="" frameborder="0" height="360"
         width="100%" src="https://player.vimeo.com/video/678525487?h=b730a0335b"

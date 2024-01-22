@@ -31,8 +31,8 @@ sections:
       button: News on Singapore Airshow 2024
       url: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/February/11feb22_nr
   - infobar:
-      title: <h1 style="color:black;">Supporting Organisations</h1>
       id: infobar
-      description: <img height="250" width="1375" alt="Supporting Organisation logos"
+      description: <h1 style="color:black;">Supporting Organisations</h1><br><img
+        height="250" width="1375" alt="Supporting Organisation logos"
         src="/images/logos.png">
 ---

@@ -23,7 +23,7 @@ sections:
   - infobar:
       subtitle: <h4>21 Feb 2024, 12.20pm</h4>
       id: infobar
-      description: <iframe allowfullscreen="" frameborder="0" height="360"
+      description: <br><iframe allowfullscreen="" frameborder="0" height="360"
         width="100%" src="https://player.vimeo.com/video/678525487?h=b730a0335b"
         title="vimeo-player"></iframe>
   - infobar:

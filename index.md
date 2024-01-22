@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Singapore Airshow 2024
+      title: Singapore Airshow 2024 Aerial Display Livestream
       subtitle: Catch adrenaline-pumping aerobatic performances by teams from around
         the world!
       background: /images/Airforce_Final.jpg

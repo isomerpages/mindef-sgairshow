@@ -53,7 +53,7 @@ sections:
       button: Vimeo
       url: https://widgets.espx.cloud/embed2/?programmeId=ec48c9b6-3e0d-4869-b9a4-75a2e8d480ab&podId=b85f3bb5-4c3a-474b-ba5f-ffcae4cbd1b9
   - textcards:
-      title: Alternative Sites
+      title: <h2 style="color:black;">Alternative Sites</h2>
       id: textcards
       description: "If you are experiencing technical difficulties, please try these
         alternative sites:"

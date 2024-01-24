@@ -52,11 +52,6 @@ sections:
       id: infobar
       button: Vimeo
       url: https://widgets.espx.cloud/embed2/?programmeId=ec48c9b6-3e0d-4869-b9a4-75a2e8d480ab&podId=b85f3bb5-4c3a-474b-ba5f-ffcae4cbd1b9
-  - infobar:
-      id: infobar
-      description: <img height="250" width="1375" alt="Supporting Organisation logos"
-        src="/images/logos.png">
-      title: <h2 style="color:black;">Supporting Organisations</h2>
   - textcards:
       title: Alternative Sites
       id: textcards
@@ -78,7 +73,10 @@ sections:
         - title: ESPX
           description: ""
           linktext: link
-          url: "
-            https://widgets.espx.cloud/embed2/?programmeId=ec48c9b6-3e0d-4869-b9a4-75\
-            a2e8d480ab&podId=b85f3bb5-4c3a-474b-ba5f-ffcae4cbd1b9"
+          url: https://widgets.espx.cloud/embed2/?programmeId=ec48c9b6-3e0d-4869-b9a4-75a2e8d480ab&podId=b85f3bb5-4c3a-474b-ba5f-ffcae4cbd1b9
+  - infobar:
+      id: infobar
+      description: <img height="250" width="1375" alt="Supporting Organisation logos"
+        src="/images/logos.png">
+      title: <h2 style="color:black;">Supporting Organisations</h2>
 ---

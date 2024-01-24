@@ -57,4 +57,28 @@ sections:
       description: <img height="250" width="1375" alt="Supporting Organisation logos"
         src="/images/logos.png">
       title: <h2 style="color:black;">Supporting Organisations</h2>
+  - textcards:
+      title: Alternative Sites
+      id: textcards
+      description: "If you are experiencing technical difficulties, please try these
+        alternative sites:"
+      cards:
+        - title: MINDEFsg Facebook
+          description: ""
+          linktext: link
+          url: https://www.facebook.com/mindefsg
+        - title: MINDEFsg Youtube
+          description: ""
+          linktext: link
+          url: https://www.youtube.com/mindefsg
+        - title: MINDEF Website
+          description: ""
+          linktext: link
+          url: mindef.gov.sg
+        - title: ESPX
+          description: ""
+          linktext: link
+          url: "
+            https://widgets.espx.cloud/embed2/?programmeId=ec48c9b6-3e0d-4869-b9a4-75\
+            a2e8d480ab&podId=b85f3bb5-4c3a-474b-ba5f-ffcae4cbd1b9"
 ---

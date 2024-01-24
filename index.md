@@ -36,8 +36,7 @@ sections:
         these sites indicated below instead.
   - infobar:
       id: infobar
-      description: >
-        <img height="250" width="1375" alt="Supporting Organisation logos"
-        src="/images/logos.png"> 
+      description: <img height="250" width="1375" alt="Supporting Organisation logos"
+        src="/images/logos.png">
       title: <h2 style="color:black;">Supporting Organisations</h2>
 ---

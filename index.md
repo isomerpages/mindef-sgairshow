@@ -55,8 +55,8 @@ sections:
   - textcards:
       title: <h2 style="color:black;">Alternative Sites</h2>
       id: textcards
-      description: "If you are experiencing technical difficulties, please try these
-        alternative sites:"
+      description: <h5>If you are experiencing technical difficulties, please try
+        these alternative sites:</h5>
       cards:
         - title: MINDEFsg Facebook
           description: ""

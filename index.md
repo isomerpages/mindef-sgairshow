@@ -60,26 +60,4 @@ sections:
       description: <img height="250" width="1375" alt="Supporting Organisation logos"
         src="/images/logos.png">
       title: <h2 style="color:black;">Supporting Organisations</h2>
-  - infobar:
-      id: infobar
-      description: "If you are experiencing technical difficulties, please try these
-        alternative sites:"
-      button: MINDEFsg Facebook
-      url: https://www.facebook.com/mindefsg
-  - infobar:
-      id: infobar
-      button: MINDEFsg Youtube
-      url: https://www.youtube.com/mindefsg
-  - infobar:
-      id: infobar
-      button: MINDEF Website
-      url: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/sa2022
-  - infobar:
-      id: infobar
-      button: Vimeo
-      url: https://widgets.espx.cloud/embed2/?programmeId=ec48c9b6-3e0d-4869-b9a4-75a2e8d480ab&podId=b85f3bb5-4c3a-474b-ba5f-ffcae4cbd1b9
-  - infobar:
-      id: infobar
-      button: ESPX
-      url: https://widgets.espx.cloud/embed2/?programmeId=ec48c9b6-3e0d-4869-b9a4-75a2e8d480ab&podId=b85f3bb5-4c3a-474b-ba5f-ffcae4cbd1b9
 ---

@@ -58,6 +58,6 @@ sections:
   - infobar:
       id: infobar
       description: <img height="250" width="1375" alt="Supporting Organisation logos"
-        src="/images/logos.png">
+        src="/images/8logosrow_TESTING.png">
       title: <h2 style="color:black;">Supporting Organisations</h2>
 ---

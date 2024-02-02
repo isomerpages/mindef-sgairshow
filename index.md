@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Singapore Air Show 2024
+title: Singapore Airshow 2024
 description: Catch adrenaline-pumping aerobatic performances by teams from around the world!
 image: /images/isomer-logo.svg
 permalink: /

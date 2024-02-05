@@ -10,7 +10,7 @@ sections:
       title: Singapore Airshow 2024 Aerial Display Livestream
       subtitle: Catch adrenaline-pumping aerobatic performances by teams from around
         the world!
-      background: /images/TestingSA1.jpg
+      background: /images/TestingSA2.jpg
   - infobar:
       title: <h2 style="color:black;">Live Streams</h2><br>
       id: infobar

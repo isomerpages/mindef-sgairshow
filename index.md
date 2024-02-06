@@ -56,5 +56,5 @@ sections:
       id: infobar
       description: <img height="250" width="1375" alt="Supporting Organisation logos"
         src="/images/logos_5.png">
-      title: <h2 style="color:black;">Supporting Organisations</h2>
+      title: <h2 style="color:black;">Supporting the SA24 Livestream</h2>
 ---

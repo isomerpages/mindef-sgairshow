@@ -17,15 +17,12 @@ sections:
       description: >-
         <h5>20 Feb 2024, 12.20pm</h5>
 
-        <br>
-
-        <iframe allowfullscreen="" frameborder="0" height="360" width="100%" src="https://player.vimeo.com/video/678525487?h=b730a0335b" title="vimeo-player"></iframe>
+        <br><img height="360" width="100%" src="/images/video-placeholder.jpg alt=">
   - infobar:
       subtitle: <h5>21 Feb 2024, 12.20pm</h5>
       id: infobar
-      description: <br><iframe allowfullscreen="" frameborder="0" height="360"
-        width="100%" src="https://player.vimeo.com/video/678525487?h=b730a0335b"
-        title="vimeo-player"></iframe>
+      description: <br><img height="360" width="100%"
+        src="/images/video-placeholder.jpg alt=">
   - infobar:
       id: infobar
       button: News on Singapore Airshow 2024

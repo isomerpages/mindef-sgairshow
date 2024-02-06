@@ -17,12 +17,12 @@ sections:
       description: >-
         <h5>20 Feb 2024, 12.20pm</h5>
 
-        <br><img width="1920" alt="Video Placeholder" src="/images/video-placeholder.jpg">
+        <br><img height="360" width="1920" alt="Video Placeholder" src="/images/video_placeholder">
   - infobar:
       subtitle: <h5>21 Feb 2024, 12.20pm</h5>
       id: infobar
-      description: <br><img width="1920" alt="Video Placeholder"
-        src="/images/video-placeholder.jpg">
+      description: <br><img height="360" width="1920" alt="Video Placeholder"
+        src="/images/video_placeholder">
   - infobar:
       id: infobar
       button: News on Singapore Airshow 2024

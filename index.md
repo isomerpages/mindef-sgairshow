@@ -17,11 +17,11 @@ sections:
       description: >-
         <h5>20 Feb 2024, 12.20pm</h5>
 
-        <br><img width="1920 height=" alt="Video Placeholder" src="/images/video-placeholder.jpg">
+        <br><img width="1920" alt="Video Placeholder" src="/images/video-placeholder.jpg">
   - infobar:
       subtitle: <h5>21 Feb 2024, 12.20pm</h5>
       id: infobar
-      description: <br><img width="1920 height=" alt="Video Placeholder"
+      description: <br><img width="1920" alt="Video Placeholder"
         src="/images/video-placeholder.jpg">
   - infobar:
       id: infobar

@@ -10,7 +10,7 @@ sections:
       title: Singapore Airshow 2024 Aerial Display Livestream
       subtitle: Catch adrenaline-pumping aerobatic performances by teams from around
         the world!
-      background: /images/TestingSA2.jpg
+      background: /images/TestingSA3.jpg
   - infobar:
       title: <h2 style="color:black;">Live Streams</h2><br>
       id: infobar
@@ -47,7 +47,7 @@ sections:
         - title: MINDEF Website
           description: ""
           linktext: link
-          url: mindef.gov.sg
+          url: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/sa2022
         - title: ESPX
           description: ""
           linktext: link

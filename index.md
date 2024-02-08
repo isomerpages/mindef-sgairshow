@@ -19,7 +19,7 @@ sections:
 
         <br><img height="360" width="1920" alt="Video Placeholder" src="/images/video_placeholder.jpg">
   - infobar:
-      subtitle: <h5>21 Feb 2024, 12.20pm</h5>
+      subtitle: <h5>24 Feb 2024, 11.20pm</h5>
       id: infobar
       description: <br><img height="360" width="1920" alt="Video Placeholder"
         src="/images/video_placeholder.jpg">

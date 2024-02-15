@@ -21,14 +21,11 @@ sections:
   - infobar:
       subtitle: <h5>24 Feb 2024, 11.20am</h5>
       id: infobar
-      description: <br><iframe allowfullscreen="" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/b43RRwHYwHQ?si=oMl3hngSEH3HPJqT"
-        height="515" width="100%"></iframe>
+      description: <br><img height="360" width="1920" alt="Video Placeholder"
+        src="/images/video_placeholder.jpg">
   - infobar:
       id: infobar
-      button: News on Singapore Airshow 2024
+      button: News on Singapore Airshow 2022
       url: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/February/11feb22_nr
   - textcards:
       title: <h2 style="color:black;">Alternative Sites</h2>

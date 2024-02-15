@@ -21,14 +21,11 @@ sections:
   - infobar:
       subtitle: <h5>24 Feb 2024, 11.20am</h5>
       id: infobar
-      description: <br><iframe allowfullscreen="" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/zKQLug079pE?si=WzSx38_HZk5jKgxw"
-        height="315" width="560"></iframe>
+      description: <br><img height="360" width="1920" alt="Video Placeholder"
+        src="/images/video_placeholder.jpg">
   - infobar:
       id: infobar
-      button: News on Singapore Airshow 2024
+      button: News on Singapore Airshow 2022
       url: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/February/11feb22_nr
   - textcards:
       title: <h2 style="color:black;">Alternative Sites</h2>
@@ -39,22 +36,22 @@ sections:
 
         <br>
       cards:
-        - title: MINDEFsg Facebook
+        - title: MINDEF Facebook
           description: ""
           linktext: link
           url: https://www.facebook.com/mindefsg
-        - title: MINDEFsg Youtube
+        - title: MINDEF Youtube
           description: ""
           linktext: link
           url: https://www.youtube.com/mindefsg
         - title: MINDEF Website
           description: ""
           linktext: link
-          url: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/sa2022
-        - title: ESPX
+          url: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2024/sa2024
+        - title: Vimeo
           description: ""
           linktext: link
-          url: https://widgets.espx.cloud/embed2/?programmeId=ec48c9b6-3e0d-4869-b9a4-75a2e8d480ab&podId=b85f3bb5-4c3a-474b-ba5f-ffcae4cbd1b9
+          url: https://vimeo.com/event/4092364
   - infobar:
       id: infobar
       description: <img height="250" width="1375" alt="Supporting Organisation logos"

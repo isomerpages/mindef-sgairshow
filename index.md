@@ -25,7 +25,7 @@ sections:
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/zKQLug079pE?si=vGxa9kgp0h4dvYKE"
-        height="315" width="100%"></iframe>
+        height="360" width="100%"></iframe>
   - infobar:
       id: infobar
       button: News on Singapore Airshow 2024

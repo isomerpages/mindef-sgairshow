@@ -50,7 +50,7 @@ sections:
         - title: MINDEF Website
           description: ""
           linktext: link
-          url: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/sa2022
+          url: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2024/sa2024
         - title: Vimeo
           description: ""
           linktext: link

@@ -21,8 +21,11 @@ sections:
   - infobar:
       subtitle: <h5>24 Feb 2024, 11.20am</h5>
       id: infobar
-      description: <br><img height="360" width="1920" alt="Video Placeholder"
-        src="/images/video_placeholder.jpg">
+      description: <br><iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/zKQLug079pE?si=WzSx38_HZk5jKgxw"
+        height="315" width="560"></iframe>
   - infobar:
       id: infobar
       button: News on Singapore Airshow 2024

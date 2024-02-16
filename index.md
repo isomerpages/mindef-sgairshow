@@ -19,13 +19,6 @@ sections:
 
         <br><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3WVKofIJj3U?si=6JZcBeWLtl0pKcZn" height="415" width="100%"></iframe>
   - infobar:
-      title: Test by Isomer team
-      id: infobar
-      description: <br><iframe allowfullscreen="" frameborder="0" height="360"
-        width="100%"
-        src="https://www.vimeo.com/event/4092295/embed/5ce6379f17"></iframe>
-      button: Button Text
-  - infobar:
       subtitle: <h5>24 Feb 2024, 11.20am</h5>
       id: infobar
       description: <br><iframe allowfullscreen="" frameborder="0" height="360"

@@ -25,6 +25,14 @@ sections:
         width="100%"
         src="https://vimeo.com/event/4092295/embed/5ce6379f17"></iframe>
   - infobar:
+      subtitle: Facebook Embed Testing
+      id: infobar
+      description: <br><iframe allow="autoplay; clipboard-write; encrypted-media;
+        picture-in-picture; web-share" allowfullscreen="true" frameborder="0"
+        scrolling="no" style="border:none;overflow:hidden" height="314"
+        width="100%"
+        src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fmindefsg%2Fvideos%2F569467171932284%2F&show_text=false&t=0"></iframe>
+  - infobar:
       id: infobar
       button: News on Singapore Airshow 2022
       url: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/February/11feb22_nr

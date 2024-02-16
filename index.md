@@ -21,8 +21,9 @@ sections:
   - infobar:
       subtitle: <h5>24 Feb 2024, 11.20am</h5>
       id: infobar
-      description: <br><img height="360" width="1920" alt="Video Placeholder"
-        src="/images/video_placeholder.jpg">
+      description: <br><iframe allowfullscreen="" frameborder="0" height="360"
+        width="100%" src="https://vimeo.com/event/4092295/5ce6379f17"
+        title="vimeo-player"></iframe>
   - infobar:
       id: infobar
       button: News on Singapore Airshow 2022

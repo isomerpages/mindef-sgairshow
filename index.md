@@ -21,11 +21,9 @@ sections:
   - infobar:
       title: Test by Isomer team
       id: infobar
-      description: <div style="padding:56.25% 0 0 0;position:relative;"><iframe
-        style="position:absolute;top:0;left:0;width:100%;height:100%;"
-        allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture"
-        frameborder="0"
-        src="https://vimeo.com/event/4092295/embed/5ce6379f17/interaction"></iframe></div>
+      description: <br><iframe allowfullscreen="" frameborder="0" height="360"
+        width="100%"
+        src="https://www.vimeo.com/event/4092295/embed/5ce6379f17"></iframe>
       button: Button Text
   - infobar:
       subtitle: <h5>24 Feb 2024, 11.20am</h5>

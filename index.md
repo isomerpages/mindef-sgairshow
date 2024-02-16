@@ -40,10 +40,10 @@ sections:
           description: ""
           linktext: link
           url: https://www.facebook.com/mindefsg
-        - title: MINDEF Youtube
+        - title: MINDEF YouTube
           description: ""
           linktext: link
-          url: https://www.youtube.com/mindefsg
+          url: https://youtube.com/live/3WVKofIJj3U?feature=share
         - title: MINDEF Website
           description: ""
           linktext: link

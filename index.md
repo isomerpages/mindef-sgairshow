@@ -52,7 +52,7 @@ sections:
         - title: Vimeo
           description: ""
           linktext: link
-          url: https://vimeo.com/event/4092364
+          url: https://vimeo.com/event/4092295/5ce6379f17
   - infobar:
       id: infobar
       description: <img height="250" width="1375" alt="Supporting Organisation logos"

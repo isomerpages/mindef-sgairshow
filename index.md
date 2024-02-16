@@ -21,10 +21,8 @@ sections:
   - infobar:
       subtitle: <h5>24 Feb 2024, 11.20am</h5>
       id: infobar
-      description: <br><iframe
-        style="position:absolute;top:0;left:0;width:100%;height:100%;"
-        allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture"
-        frameborder="0"
+      description: <br><iframe style="width:100%;height:360;" allowfullscreen=""
+        allow="autoplay; fullscreen; picture-in-picture" frameborder="0"
         src="https://vimeo.com/event/4092295/embed/5ce6379f17/interaction"></iframe>
   - infobar:
       id: infobar

@@ -27,7 +27,7 @@ sections:
   - infobar:
       subtitle: Facebook Embed Testing
       id: infobar
-      description: <br><iframe data-autoplay="false" allow="autoplay; clipboard-write;
+      description: <br><iframe autoplay="false" allow="autoplay; clipboard-write;
         encrypted-media; picture-in-picture; web-share" allowfullscreen="true"
         frameborder="0" scrolling="no" style="border:none;overflow:hidden"
         height="314" width="100%"

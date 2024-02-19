@@ -27,10 +27,10 @@ sections:
   - infobar:
       subtitle: Facebook Embed Testing
       id: infobar
-      description: <br><iframe data-autoplay="”false”" allow="autoplay;
-        clipboard-write; encrypted-media; picture-in-picture; web-share"
-        allowfullscreen="true" frameborder="0" scrolling="no"
-        style="border:none;overflow:hidden" height="314" width="100%"
+      description: <br><iframe data-autoplay="false" allow="autoplay; clipboard-write;
+        encrypted-media; picture-in-picture; web-share" allowfullscreen="true"
+        frameborder="0" scrolling="no" style="border:none;overflow:hidden"
+        height="314" width="100%"
         src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2F61551763882585%2Fvideos%2F956135692428170%2F&show_text=false&t=0"></iframe>
   - infobar:
       id: infobar

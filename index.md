@@ -25,8 +25,8 @@ sections:
         src="/images/video_placeholder.jpg">
   - infobar:
       id: infobar
-      button: News on Singapore Airshow 2022
-      url: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/February/11feb22_nr
+      button: News on Singapore Airshow 2024
+      url: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2024/February/18feb24_nr2
   - textcards:
       title: <h2 style="color:black;">Alternative Sites</h2>
       id: textcards
@@ -40,7 +40,7 @@ sections:
           description: ""
           linktext: link
           url: https://www.facebook.com/mindefsg
-        - title: MINDEF Youtube
+        - title: MINDEF YouTube
           description: ""
           linktext: link
           url: https://www.youtube.com/mindefsg

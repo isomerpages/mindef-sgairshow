@@ -23,7 +23,7 @@ sections:
       id: infobar
       description: <br><iframe allowfullscreen="" frameborder="0" height="360"
         width="100%"
-        src="https://vimeo.com/event/4092295/embed/5ce6379f17"></iframe>
+        src="https://vimeo.com/event/4092295/embed/5ce6379f17?autoplay=0"></iframe>
   - infobar:
       subtitle: Facebook Embed Testing
       id: infobar

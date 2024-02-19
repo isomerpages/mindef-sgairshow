@@ -17,7 +17,7 @@ sections:
       description: >-
         <h5>20 Feb 2024, 12.20pm</h5>
 
-        <br><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3WVKofIJj3U?si=6JZcBeWLtl0pKcZn" height="415" width="100%"></iframe>
+        <br><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Nuhs3-K4Hrw?si=V2R17yN-HLlvTP9T" height="415" width="100%"></iframe>
   - infobar:
       subtitle: <h5>24 Feb 2024, 11.20am</h5>
       id: infobar

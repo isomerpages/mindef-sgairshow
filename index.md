@@ -27,11 +27,11 @@ sections:
   - infobar:
       subtitle: Facebook Embed Testing
       id: infobar
-      description: <br><iframe autoplay="false" allow="autoplay; clipboard-write;
-        encrypted-media; picture-in-picture; web-share" allowfullscreen="true"
-        frameborder="0" scrolling="no" style="border:none;overflow:hidden"
-        height="314" width="100%"
-        src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2F61551763882585%2Fvideos%2F956135692428170%2F&show_text=false&t=0"></iframe>
+      description: <br><iframe allow="autoplay; clipboard-write; encrypted-media;
+        picture-in-picture; web-share" allowfullscreen="true" frameborder="0"
+        scrolling="no" style="border:none;overflow:hidden" height="314"
+        width="100%"
+        src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2F61551763882585%2Fvideos%2F956135692428170%2F&show_text=false&t=0&autoplay=false"></iframe>
   - infobar:
       id: infobar
       button: News on Singapore Airshow 2022

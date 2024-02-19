@@ -17,25 +17,16 @@ sections:
       description: >-
         <h5>20 Feb 2024, 12.20pm</h5>
 
-        <br><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Nuhs3-K4Hrw?si=V2R17yN-HLlvTP9T" height="415" width="100%"></iframe>
+        <br><img height="360" width="1920" alt="Video Placeholder" src="/images/video_placeholder.jpg">
   - infobar:
       subtitle: <h5>24 Feb 2024, 11.20am</h5>
       id: infobar
-      description: <br><iframe allowfullscreen="" frameborder="0" height="360"
-        width="100%"
-        src="https://vimeo.com/event/4092295/embed/5ce6379f17?autoplay=0"></iframe>
-  - infobar:
-      subtitle: Facebook Embed Testing
-      id: infobar
-      description: <br><iframe allow="autoplay; clipboard-write; encrypted-media;
-        picture-in-picture; web-share" allowfullscreen="true" frameborder="0"
-        scrolling="no" style="border:none;overflow:hidden" height="314"
-        width="100%"
-        src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2F61551763882585%2Fvideos%2F956135692428170%2F&show_text=false&t=0&autoplay=false"></iframe>
+      description: <br><img height="360" width="1920" alt="Video Placeholder"
+        src="/images/video_placeholder.jpg">
   - infobar:
       id: infobar
-      button: News on Singapore Airshow 2022
-      url: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/February/11feb22_nr
+      button: News on Singapore Airshow 2024
+      url: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2024/February/18feb24_nr2
   - textcards:
       title: <h2 style="color:black;">Alternative Sites</h2>
       id: textcards
@@ -52,7 +43,7 @@ sections:
         - title: MINDEF YouTube
           description: ""
           linktext: link
-          url: https://youtube.com/live/3WVKofIJj3U?feature=share
+          url: https://www.youtube.com/mindefsg
         - title: MINDEF Website
           description: ""
           linktext: link
@@ -60,7 +51,7 @@ sections:
         - title: Vimeo
           description: ""
           linktext: link
-          url: https://vimeo.com/event/4092295/5ce6379f17
+          url: https://vimeo.com/event/4092364
   - infobar:
       id: infobar
       description: <img height="250" width="1375" alt="Supporting Organisation logos"

@@ -17,12 +17,7 @@ sections:
       description: >-
         <h5>20 Feb 2024, 12.20pm</h5>
 
-        <br><img height="360" width="1920" alt="Video Placeholder" src="/images/video_placeholder.jpg">
-  - infobar:
-      subtitle: <h5>24 Feb 2024, 11.20am</h5>
-      id: infobar
-      description: <br><img height="360" width="1920" alt="Video Placeholder"
-        src="/images/video_placeholder.jpg">
+        <br><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/XzJlGpTvssg?si=0NemExIlvqJqA1KB" height="415" width="100%"></iframe>
   - infobar:
       id: infobar
       button: News on Singapore Airshow 2024
@@ -39,11 +34,11 @@ sections:
         - title: MINDEF Facebook
           description: ""
           linktext: link
-          url: https://www.facebook.com/mindefsg
+          url: https://www.facebook.com/mindefsg/videos/1421820278746643/
         - title: MINDEF YouTube
           description: ""
           linktext: link
-          url: https://www.youtube.com/mindefsg
+          url: https://youtube.com/live/XzJlGpTvssg
         - title: MINDEF Website
           description: ""
           linktext: link

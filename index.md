@@ -14,15 +14,7 @@ sections:
   - infobar:
       title: <h2 style="color:black;">Live Streams</h2><br>
       id: infobar
-      description: >-
-        <h5>20 Feb 2024, 12.20pm</h5>
-
-        <br><img height="360" width="1920" alt="Video Placeholder" src="/images/video_placeholder.jpg">
-  - infobar:
-      subtitle: <h5>24 Feb 2024, 11.20am</h5>
-      id: infobar
-      description: <br><img height="360" width="1920" alt="Video Placeholder"
-        src="/images/video_placeholder.jpg">
+      description: <h5>20 Feb 2024, 12.20pm</h5>
   - infobar:
       id: infobar
       button: News on Singapore Airshow 2024

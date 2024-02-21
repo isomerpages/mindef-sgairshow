@@ -19,6 +19,11 @@ sections:
 
         <br><iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="314" width="100%" src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fmindefsg%2Fvideos%2F1421820278746643%2F&show_text=false&t=0&autoplay=false"></iframe>
   - infobar:
+      title: <h5>24 Feb 2024, 11.20am</h5>
+      id: infobar
+      description: <br><img height="360" width="1920" alt="Video Placeholder"
+        src="/images/video_placeholder.jpg">
+  - infobar:
       id: infobar
       button: News on Singapore Airshow 2024
       url: https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2024/February/18feb24_nr2

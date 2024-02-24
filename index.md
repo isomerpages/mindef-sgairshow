@@ -14,10 +14,6 @@ sections:
   - infobar:
       title: <h2 style="color:black;">Live Streams</h2><br>
       id: infobar
-      description: >-
-        <h5>20 Feb 2024, 12.20pm</h5>
-
-        <br><iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="314" width="100%" src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fmindefsg%2Fvideos%2F1421820278746643%2F&show_text=false&t=0&autoplay=false"></iframe>
   - infobar:
       title: <h5>24 Feb 2024, 11.20am</h5>
       id: infobar
@@ -51,7 +47,7 @@ sections:
         - title: Vimeo
           description: ""
           linktext: link
-          url: https://vimeo.com/event/4092364
+          url: https://vimeo.com/event/4092557
   - infobar:
       id: infobar
       description: <img height="250" width="1375" alt="Supporting Organisation logos"
